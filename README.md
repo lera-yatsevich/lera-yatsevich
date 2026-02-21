@@ -1,5 +1,5 @@
 # Яцевич Валерия
-Аналитик-разработчик | Менеджер 
+Грузчик данных
 
 <a href="mailto:lerayatsevich@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
@@ -41,13 +41,20 @@
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ### Environment
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 ## Изучаю
+
+### Языки
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)
+### AI
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+
+## Забываю
 ### Языки
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
 ### Визуализация
 ![Superset](https://img.shields.io/badge/Superset-%23ffffff.svg?style=for-the-badge&logo=Superset&logoColor=darkgrey)
-### Environment
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 
